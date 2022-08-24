@@ -1,0 +1,27 @@
+F:\Product Review Analysis\learn api\learn api\bin\Debug\net6.0\appsettings.Development.json
+F:\Product Review Analysis\learn api\learn api\bin\Debug\net6.0\appsettings.json
+F:\Product Review Analysis\learn api\learn api\bin\Debug\net6.0\learn api.exe
+F:\Product Review Analysis\learn api\learn api\bin\Debug\net6.0\learn api.deps.json
+F:\Product Review Analysis\learn api\learn api\bin\Debug\net6.0\learn api.runtimeconfig.json
+F:\Product Review Analysis\learn api\learn api\bin\Debug\net6.0\learn api.dll
+F:\Product Review Analysis\learn api\learn api\bin\Debug\net6.0\learn api.pdb
+F:\Product Review Analysis\learn api\learn api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Product Review Analysis\learn api\learn api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Product Review Analysis\learn api\learn api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Product Review Analysis\learn api\learn api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\learn api.csproj.AssemblyReference.cache
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\learn api.GeneratedMSBuildEditorConfig.editorconfig
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\learn api.AssemblyInfoInputs.cache
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\learn api.AssemblyInfo.cs
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\learn api.csproj.CoreCompileInputs.cache
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\learn api.MvcApplicationPartsAssemblyInfo.cs
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\learn api.MvcApplicationPartsAssemblyInfo.cache
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\staticwebassets.build.json
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\staticwebassets.development.json
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\scopedcss\bundle\learn api.styles.css
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\learn api.csproj.CopyComplete
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\learn api.dll
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\refint\learn api.dll
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\learn api.pdb
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\learn api.genruntimeconfig.cache
+F:\Product Review Analysis\learn api\learn api\obj\Debug\net6.0\ref\learn api.dll
